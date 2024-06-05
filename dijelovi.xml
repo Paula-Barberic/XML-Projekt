@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dijelovi>
+    <dio>
+        <ime>Phantom Blood</ime>
+        <god>1987.</god>
+        <anim>Da</anim>
+    </dio>
+    <dio>
+        <ime>Battle Tendency</ime>
+        <god>1987. - 1989.</god>
+        <anim>Da</anim>
+    </dio>
+    <dio>
+        <ime>Stardust Crusaders</ime>
+        <god>1989. - 1992.</god>
+        <anim>Da</anim>
+    </dio>
+    <dio>
+        <ime>Diamond is Unbreakable</ime>
+        <god>1992. - 1995.</god>
+        <anim>Da</anim>
+    </dio>
+    <dio>
+        <ime>Vento Aureo</ime>
+        <god>1995. - 1999.</god>
+        <anim>Da</anim>
+    </dio>
+    <dio>
+        <ime>Stone Ocean</ime>
+        <god>2000. - 2003.</god>
+        <anim>Da</anim>
+    </dio>
+    <dio>
+        <ime>Steel Ball Run</ime>
+        <god>2004. - 2011.</god>
+        <anim>Ne</anim>
+    </dio>
+    <dio>
+        <ime>JoJolion</ime>
+        <god>2011. - 2021</god>
+        <anim>Ne</anim>
+    </dio>
+    <dio>
+        <ime>The JOJOLands</ime>
+        <god>2023. - TBA</god>
+        <anim>Ne</anim>
+    </dio>
+</dijelovi>
+
+
+
